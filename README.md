@@ -1,4 +1,4 @@
-# <mark>Fintech-Churn-Analysis</mark>
+# <mark>Data Analysis Portfolio Project: Fintech Churn Analysis</mark>
 
 ## <mark>Business Problem Statement:</mark>
 
