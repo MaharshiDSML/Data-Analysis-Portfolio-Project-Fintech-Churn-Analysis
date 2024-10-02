@@ -9,7 +9,7 @@
 
 ## <mark>Data description:</mark>
 
-Dataset link:https://drive.google.com/file/d/1xh7D0NDmxdg6IXTFzi_T-Oc5D-GtI44W/view?usp=sharing
+Dataset link: https://drive.google.com/file/d/1xh7D0NDmxdg6IXTFzi_T-Oc5D-GtI44W/view?usp=sharing
 
 - RowNumber—corresponds to the record (row) number and has no effect on the output.
 - CustomerId—contains random values and has no effect on customer leaving the bank.
